@@ -40,7 +40,7 @@ Before running the application, ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   cd musicapplication
+   https://github.com/Etika8445/Music-App.git
 
 2. Install dependencies for both frontend and backend:
    ```bash
