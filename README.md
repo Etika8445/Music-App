@@ -40,20 +40,35 @@ Before running the application, ensure you have the following installed:
 
 ## Installation
 
-Clone the repository:
+1. Clone the repository:
+   ```bash
+   cd musicapplication
 
-```bash
-git clone https://github.com/your-username/jukeboks.git
-cd jukeboks
+2. Install dependencies for both frontend and backend:
+   ```bash
+   cd frontend
+   cd musicapp
+   npm install
 
+   cd backend
+   npm install
 
-Install dependencies for both frontend and backend:
+## Running the Application
 
-```bash
-cd frontend
-cd musicapp
-npm install
+To start the application locally, follow these steps:
 
-cd backend
-npm install
+### Set up environment variables:
+
+1. Create a `.env` file in the backend directory and add necessary environment variables (e.g., database connection string, API keys).
+   
+2. Start the frontend server:
+   ```bash
+   cd musicapp
+   npm start
+3. Start the backend server:
+   ```bash
+   cd backend
+   npm start
+4. Open your browser and navigate to `http://localhost:3000` to use the Jukeboks application.
+
 
