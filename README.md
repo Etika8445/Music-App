@@ -1,8 +1,8 @@
-# Jukeboks Music Application
+# Jukebops Music Application
 
-Jukeboks is a full-stack music application built using MERN (MongoDB, Express.js, React.js, Node.js) stacks. It allows users to listen to their latest and favorite songs, search for songs, and play their chosen tracks with a simple click. The application utilizes Material UI for design components and CSS for additional styling.
+Jukebops is a full-stack music application built using MERN (MongoDB, Express.js, React.js, Node.js) stacks. It allows users to listen to their latest and favorite songs, search for songs, and play their chosen tracks with a simple click. The application utilizes Material UI for design components and CSS for additional styling.
 
-![Jukeboks Music Web Application](musicapp.png)
+![Jukebops Music Web Application](musicapp.png)
 
 ## Table of Contents
 
@@ -16,7 +16,7 @@ Jukeboks is a full-stack music application built using MERN (MongoDB, Express.js
 
 ## Features
 
-Jukeboks is a full-stack music application that provides the following features:
+Jukebops is a full-stack music application that provides the following features:
 
 - User authentication with bcrypt for password hashing and storage.
 - Playback of latest and favorite songs.
