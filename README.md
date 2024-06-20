@@ -2,6 +2,7 @@
 
 Jukeboks is a full-stack music application built using MERN (MongoDB, Express.js, React.js, Node.js) stacks. It allows users to listen to their latest and favorite songs, search for songs, and play their chosen tracks with a simple click. The application utilizes Material UI for design components and CSS for additional styling.
 
+![Jukeboks Music Web Application Logo](musicwebsite.png)
 
 ## Table of Contents
 
@@ -12,9 +13,6 @@ Jukeboks is a full-stack music application built using MERN (MongoDB, Express.js
 - [Running the Application](#running-the-application)
 - [Usage](#usage)
 - [Technology Stack](#technology-stack)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## Features
 
@@ -28,7 +26,7 @@ Jukeboks is a full-stack music application that provides the following features:
 
 ## Demo
 
-[Include a link to a live demo or a screenshot of the application here]
+You can view a live demo of the application [here](https://music-app-alpha-inky.vercel.app/).
 
 ## Prerequisites
 
@@ -70,5 +68,30 @@ To start the application locally, follow these steps:
    cd backend
    npm start
 4. Open your browser and navigate to `http://localhost:3000` to use the Jukeboks application.
+
+
+## Usage
+
+1. Register or login with your credentials.
+2. Explore and play your favorite songs.
+3. Use the search feature to find specific songs.
+
+## Technology Stack
+
+### Frontend:
+
+- React.js
+- Material UI
+- Axios
+
+### Backend:
+
+- Node.js
+- Express.js
+- MongoDB (for user authentication and data storage)
+
+### Password Security:
+
+- bcrypt (for hashing and storing passwords securely)
 
 
