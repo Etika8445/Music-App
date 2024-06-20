@@ -1,4 +1,4 @@
-const URL="mongodb+srv://Etika8445:etika@cluster0.c9w7fek.mongodb.net/userdb?retryWrites=true&w=majority";
+const URL="your database";
 import mongoose from "mongoose";
 const promise=mongoose.connect(URL);
 promise.then(data=>{
