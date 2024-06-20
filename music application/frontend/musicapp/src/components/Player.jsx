@@ -6,8 +6,8 @@ export const Player = ({fn, song}) => {
   return (
     <div>
       <center>
-        <div className="card" id="play" style={{width:"20rem"}}>
-          <img src={song.artworkUrl100} height={200} width={200} alt='img'/>
+        <div className="card" id="play">
+          <img src={song.artworkUrl100} height={200} alt='img'/>
           <br/>
           <Typography fontFamily={'Helvetica'} fontSize={20} color={'#ffffff'} fontWeight={'bold'}>{song?.trackName} </Typography>
           <Typography color={'#ecebe8'} fontWeight={'light'} fontStyle={'italic'}>{song?.artistName}</Typography>
