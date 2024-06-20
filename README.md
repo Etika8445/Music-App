@@ -46,6 +46,7 @@ Clone the repository:
 git clone https://github.com/your-username/jukeboks.git
 cd jukeboks
 
+
 Install dependencies for both frontend and backend:
 
 ```bash
